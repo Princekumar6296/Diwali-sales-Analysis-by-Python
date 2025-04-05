@@ -26,7 +26,7 @@ A **Diwali Sales Analysis Project in Python** involves analyzing sales data usin
 
 **🔄 Project Process:-**
 
-  - Collected Diwali sales data from a retail dataset (Excel format).
+  - Collected Diwali sales data from a retail dataset (CSV. format).
   - Set up Python environment using Jupyter Notebook.
   - Imported essential libraries like `pandas`, `numpy`, `matplotlib`, and `seaborn`.
   - Removed null, duplicate, and irrelevant records.
